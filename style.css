@@ -1,0 +1,344 @@
+.container{
+    margin-top: 4%;
+}
+
+.bibliografia{
+color: hsla(332, 67%, 47%, 0.897) ;
+}
+.titulobi{
+    margin-top: 5%;
+    color: black;
+    }
+.letrasblanco{
+    color: white;
+}
+.top{
+    margin-top: 1%;
+    background-color: pink;
+}
+.tops1{
+    margin-top: 1%;
+    background-color: green;
+}
+.tops2{
+    margin-top: 1%;
+    background-color: orange;
+}
+.tops3{
+    margin-top: 1%;
+    background-color: red;
+}
+.tops4{
+    margin-top: 1%;
+    background-color: cadetblue;
+}
+.tops5{
+    margin-top: 1%;
+    background-color:darkkhaki;
+}
+.tops6{
+    margin-top: 1%;
+    background-color:darksalmon;
+}
+.tops7{
+    margin-top: 1%;
+    background-color: yellow;
+}
+.titulo{
+    align-items: center;
+    color: white;
+}
+.CONTACTO{
+    height: 10%;
+    width: -10%;
+    background: yellow;
+    margin-bottom: 0%;
+    overflow: hidden;
+    margin-top: 3%;
+}
+.saul{
+    height: 10%;
+    width: -10%;
+    background: linear-gradient(to left, hsla(22, 67%, 47%, 0.897), rgba(245, 25, 18, 0.5), rgb(238, 10, 10));
+    margin-bottom: 0%;
+    overflow: hidden;
+    margin-top: 3%;
+}
+.antonio{
+    height: 10%;
+    width: -10%;
+    background: linear-gradient(to left, hsla(236, 42%, 67%, 0.897), rgba(18, 237, 245, 0.5), rgb(1, 57, 83));
+    margin-bottom: 0%;
+    overflow: hidden;
+    margin-top: 3%;
+}
+
+.monografia{
+    height: 10%;
+    width: -10%;
+    background: linear-gradient(to left, hsla(120, 67%, 47%, 0.897), rgba(44, 240, 102, 0.5), rgb(1, 83, 1));
+    margin-bottom: 0%;
+    overflow: hidden;
+    margin-top: 3%;
+}
+
+.boton{
+    margin-top: 0.9%;
+   margin-left: 40%;
+
+}
+.boton1{
+    margin-top: 0.9%;
+   margin-left: 46%;
+
+}
+
+.sha{
+    background-color: rgb(238, 110, 200);
+    color: rgb(250, 237, 236);
+}
+
+.s{
+    background-color: rgb(255, 110, 110);
+    color: rgb(250, 237, 236);
+}
+
+.a{
+    background-color: rgb(104, 160, 212);
+    color:rgb(250, 237, 236);
+}
+.m{
+    background-color: rgb(112, 211, 137);
+    color: rgb(250, 237, 236);
+}
+
+.titulosha{
+    color: rgba(247, 40, 154, 0.76);
+    margin-top: 5%;
+    margin-left: 0%
+    
+}
+.titulosa{
+    color: red;
+    margin-top: 5%;
+    margin-left: 0%
+    
+}
+.imgSha{
+    width: 40%; 
+    right: 25%; 
+    margin-left: 13%;
+    margin-top: 4%;
+}
+.imgSa{
+    width: 40%; 
+    right: 25%; 
+    margin-left: 13%;
+    margin-top: 4%;
+}
+.textoArribaSha{
+    margin-left: 50%;
+    margin-top: -32%;
+}
+.textoSa{
+    margin-left: 50%;
+    margin-top: -25%;
+    color:white;
+}
+.nombreSha{
+    margin-top: 5%;
+    margin-left: 11%;
+    color: rgba(247, 40, 154, 0.76);
+}
+.nombreSa{
+    margin-top: 5%;
+    margin-left: -35%;
+    color: red;
+    text-align: center;
+}
+.fondo{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parte1{
+    text-align: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6OLQ2_9KRZZ51w9RGjo3uV9lSvRN_aBG58Q&usqp=CAU');
+    width: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.parte2{
+    text-align: center;
+    background-image: url('https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2022/06/09154807/peli%CC%81culas-Marvel-1280x620.jpg');
+    width: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.parte3{
+    text-align: center;
+    background-color: black;
+    width: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.tituloan{
+    color: rgba(52, 1, 255, 0.76);
+    margin-top: 5%;
+    margin-left: 0%
+}
+.imgan{
+    width: 40%; 
+    right: 25%; 
+    margin-left: 13%;
+    margin-top: 4%;
+}
+.textoArribaan{
+    margin-left: 50%;
+    margin-top: -32%;
+}
+.nombrean{
+    margin-top: 5%;
+    margin-left: 11%;
+    color: rgba(40, 57, 247, 0.76);
+}
+.goku{
+    margin-top: 1%;
+    background-color:rgb(23, 8, 237);
+}
+
+.mparte21{
+    align-items: center;
+    margin-left: 39%;
+    margin-top: -19.2%;
+}
+
+.mparte11{
+    align-items: center;
+    margin-left: 14%;
+    margin-top: 5%;
+}
+
+.mparte31{
+    align-items: center;
+    margin-left: 71%;
+    margin-top: -19.2%;
+}
+.mparte41{
+    align-items: center;
+    margin-left: 14%;
+    margin-top: -0.5%;
+}
+.mparte51{
+    align-items: center;
+    margin-left: 46.3%;
+    margin-top: -19.2%;
+}
+.mparte61{
+    align-items: center;
+    margin-left: 71%;
+    margin-top: -19.2%;
+}
+.ES{ text-align: center;
+}
+.GA{ margin-left: 8%;
+}
+.LE{ margin-left: 8%;
+}
+.RE{ margin-left: 7%;
+}
+.tituloEc{
+    align-items: center;
+    color: white;
+}
+.textoGa{
+    text-align: center;
+    color: orange;
+}
+.textoEc{
+    text-align: center;
+    color: green;
+}
+.textoLe{
+    text-align: center;
+    color: red;
+}
+.textoRe{
+    text-align: center;
+    color: cadetblue;
+}
+.textoCo{
+    text-align: center;
+    color: darkkhaki;
+}
+.textoVe{
+    text-align: center;
+    color: darksalmon;
+}
+.p1:hover{
+background-color: green;
+}
+.monografia1{
+    align-items: center;
+}
+.fondoG{
+    background-color: black;
+    text-align: center;
+}
+.parteF{
+    text-align: center;
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.NOMBRE{
+    margin-left: -45%;
+    margin-top: 0%;
+}
+.CORREO{
+    margin-left: -45%;
+    margin-top: -10%;
+}
+.MENSAJE{
+    margin-left: -35%;
+    margin-top:0%;
+}
+.na{
+    color: black;
+    margin-left: -50%;
+    margin-top: 10%;
+}
+.co{
+    color: black;
+    margin-left: -50%;
+    margin-top: 0%;
+}
+.me{
+    color: black;
+    margin-left: -50%;
+    margin-top: 0%;
+}
+.textoFO{
+    margin-left: 35%;
+    margin-top: 0%;
+    color:white;
+}
+.fondoF{
+    background-color: black;
+    align-items: center;
+}
+.CONT{
+    background-color: aquamarine;
+    text-align: center;
+}
+.enviar:hover{
+    background-color: blue;
+}
+.mensaje{
+    text-align: center;
+}
